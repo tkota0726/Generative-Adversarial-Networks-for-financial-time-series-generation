@@ -5,4 +5,5 @@ This is the code I used for my master thesis at the University of Cambridge. It 
 For a tutorial in form of iPython notebook, please refer to appendix E of my master thesis available at https://www.researchgate.net/project/Generative-Adversarial-Networks-4
 
 Both the theoretical approach and the implementation are based on the method of Hyland et al. for generative modelling of time series. 
+Their research paper is available at https://arxiv.org/abs/1706.02633 and their code at https://github.com/ratschlab/RGAN
 
